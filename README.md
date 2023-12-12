@@ -1,7 +1,7 @@
 # Home Equity Loan Default Risk Analysis
 
 ## Project Overview
-This project analyzes the risk of default on home equity loans using Logistic Regression and Random Forest models. The goal is to predict the likelihood of loan default based on various borrower characteristics.
+This project analyses the risk of default on home equity loans using Logistic Regression and Random Forest models. The goal is to predict the likelihood of loan default based on various borrower characteristics.
 
 ## Data Description
 The dataset features 5,960 home equity loans with attributes such as loan amount, mortgage due, property value, job category, and credit history. Key variables include:
